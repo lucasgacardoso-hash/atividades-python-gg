@@ -1,0 +1,1 @@
+semanas = ["segunda","terça","quarta","quinta","sexta","sábado","domingo"]
