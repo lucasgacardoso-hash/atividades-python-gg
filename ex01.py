@@ -1,7 +1,3 @@
-#recebe números quebrados e inteiros # #int é inteiro # #str é letras# #
+nome = input("Escreva seu nome: ")#aqui eu declarei a variavel e seu tipo não precisei, depois pedi pra inserir um valor
 
-
-
-temperatura = float(input ("Digite a temperatura em Celsius: ")) 
-f = temperatura * 1.8 + 32
-print (f"A temperatura em Fehrenheit é : [f] "f" ")
+print (" Olá,",nome,"! Bem-vindo(a) ao curso de Desenvolvimento de Sistemas")#aqui eu faço um comando pra aparecer na tela a variavel e os textos que fiz
